@@ -32,7 +32,6 @@ B --> C[Frame Filtering]
 C --> D[Manual Verification GUI]
 D --> E[COCO Dataset Export]
 E --> F[Training Ready Dataset]
-text
 ```
 
 ## Inspiration
